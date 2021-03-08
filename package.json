@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@types/lodash": "^4.14.161",
-    "date-fns": "^2.11.1",
+    "date-fns": "^2.19.0",
     "expo": "^38.0.0",
     "expo-barcode-scanner": "~8.2.1",
     "expo-camera": "~8.3.1",
